@@ -1,4 +1,4 @@
-# Search New Yourk City Schools, for their SAT scores, etc, using listview searching.
+# Android Search, for 479 New Yourk City Schools, for their SAT scores, etc, using listview searching.
 
 Using 479 Schools SAT scores etc, Data from NYC for showcase, This is a simple android project who display listview with dynamic searching
 
