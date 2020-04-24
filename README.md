@@ -1,4 +1,5 @@
-# android-listview-with-searching
+# Search New Yourk City Schools, for their SAT scores, etc, using listview searching.
+
 This is a simple android project who display listview with dynamic searching
 
 Usage Steps:
