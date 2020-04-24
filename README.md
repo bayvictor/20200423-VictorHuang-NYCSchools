@@ -1,6 +1,6 @@
 # Android Search, for 479 New Yourk City Schools, for their SAT scores, etc, using listview searching.
 
-Using 479 Schools SAT scores etc, Data from NYC for showcase, This is a simple android project who display listview with dynamic searching
+Using 479 Schools' SAT scores etc, Data from NYC for showcase, This is a simple android project who display listview with dynamic searching
 
 Usage Steps:
 (1) after git clone "https://github.com/bayvictor/20200423-VictorHuang-NYCSchools.git",
