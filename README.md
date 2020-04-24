@@ -3,8 +3,9 @@ This is a simple android project who display listview with dynamic searching
 
 Usage Steps:
 (1) after git clone "https://github.com/bayvictor/20200423-VictorHuang-NYCSchools.git",
-(2) do "cd 20200423-VictorHuang-NYCSchools; ./gradlew InstallDebug" to run your USB-attached android phone, and got screen shots attached!
+(2) do "cd 20200423-VictorHuang-NYCSchools; ./gradlew InstallDebug" to run on your USB-attached android phone, and got screen shots attached!
 (3) Impressive point is "Real-time search responses on your key-typing" :) .
+(4) Your app name is "0423-NYC_school_search" on your phone!
 
 
 TO DO: 
