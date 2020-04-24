@@ -1,0 +1,490 @@
+<resources>
+    <string name="app_name">0423_NYC_School_search</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="school_names">
+
+       <item>henry street school for international studies,29,355,404,363</item>
+       <item>university neighborhood high school,91,383,423,366</item>
+       <item>east side community school,70,377,402,370</item>
+       <item>forsyth satellite academy,7,414,401,359</item>
+       <item>marta valle high school,44,390,433,384</item>
+       <item>lower east side preparatory high school,112,332,557,316</item>
+       <item>new explorations into science, technology and math high school,159,522,574,525</item>
+       <item>cascades high school,18,417,418,411</item>
+       <item>bard high school early college,130,624,604,628</item>
+       <item>47 the american sign language and english secondary school,16,395,400,387</item>
+       <item>food and finance high school,62,409,393,392</item>
+       <item>essex street academy,53,394,384,378</item>
+       <item>high school of hospitality management,58,374,375,362</item>
+       <item>pace high school,85,423,438,432</item>
+       <item>urban assembly school of design and construction, the,48,404,449,416</item>
+       <item>facing history school, the,76,353,358,340</item>
+       <item>urban assembly academy of government and law, the,50,375,388,385</item>
+       <item>lower manhattan arts academy,40,403,392,405</item>
+       <item>james baldwin school, the: a school for expeditionary learning,69,408,390,390</item>
+       <item>urban assembly school of business for young women, the,42,373,370,384</item>
+       <item>gramercy arts high school,60,391,391,394</item>
+       <item>nyc ischool,92,473,483,479</item>
+       <item>manhattan business academy,s,s,s,s</item>
+       <item>business of sports school,s,s,s,s</item>
+       <item>emma lazarus high school,79,319,512,357</item>
+       <item>the high school for language and diplomacy,s,s,s,s</item>
+       <item>high school for environmental studies,263,465,493,461</item>
+       <item>institute for collaborative education,54,492,465,467</item>
+       <item>professional performing arts high school,94,509,490,523</item>
+       <item>baruch college campus high school,104,496,563,518</item>
+       <item>n.y.c. lab school for collaborative studies,114,537,590,550</item>
+       <item>school of the future high school,66,517,533,515</item>
+       <item>n.y.c. museum school,103,468,492,459</item>
+       <item>eleanor roosevelt high school,127,572,594,592</item>
+       <item>millennium high school,144,528,553,533</item>
+       <item>landmark high school,62,390,399,381</item>
+       <item>high school for health professions and human services,336,429,449,428</item>
+       <item>leadership and public service high school,84,416,426,391</item>
+       <item>manhattan academy for arts and language,s,s,s,s</item>
+       <item>legacy school for integrated studies,29,356,357,349</item>
+       <item>hudson high school of learning technologies,s,s,s,s</item>
+       <item>international high school at union square,s,s,s,s</item>
+       <item>manhattan village academy,95,441,473,458</item>
+       <item>bayard rustin educational complex,59,378,365,368</item>
+       <item>vanguard high school,72,395,416,388</item>
+       <item>manhattan international high school,49,376,460,391</item>
+       <item>washington irving high school,151,373,387,360</item>
+       <item>washington irving yabc,s,s,s,s</item>
+       <item>stuyvesant high school,832,679,735,682</item>
+       <item>high school of economics and finance,167,443,489,442</item>
+       <item>unity center for urban technologies,25,370,349,351</item>
+       <item>talent unlimited high school,81,469,472,475</item>
+       <item>murry bergtraum high school for business careers,264,407,440,393</item>
+       <item>jacqueline kennedy onassis high school,131,414,425,400</item>
+       <item>repertory company high school for theatre arts,42,429,404,420</item>
+       <item>manhattan bridges high school,66,336,378,344</item>
+       <item>new design high school,73,391,395,382</item>
+       <item>independence high school,14,389,371,335</item>
+       <item>high school for dual language and asian studies,78,412,581,431</item>
+       <item>liberty high school academy for newcomers,26,368,436,352</item>
+       <item>the urban assembly new york harbor school,77,405,423,384</item>
+       <item>high school m560 s city as school,56,498,440,477</item>
+       <item>urban academy laboratory high school,30,527,508,512</item>
+       <item>satellite academy high school,33,350,337,345</item>
+       <item>manhattan comprehensive night and day high school,121,345,517,343</item>
+       <item>richard r. green high school of teaching,84,408,384,403</item>
+       <item>harvey milk high school,9,458,416,429</item>
+       <item>the high school of fashion industries,335,423,423,411</item>
+       <item>humanities preparatory academy,36,426,403,426</item>
+       <item>chelsea career and technical education high school,83,399,418,390</item>
+       <item>norman thomas high school,154,370,379,359</item>
+       <item>high school of graphic communication arts,191,395,382,376</item>
+       <item>art and design high school,270,444,441,430</item>
+       <item>life sciences secondary school,61,409,424,403</item>
+       <item>manhattan theatre lab high school,27,406,379,408</item>
+       <item>high school for arts, imagination and inquiry,49,374,384,374</item>
+       <item>urban assembly school for media studies, the,41,384,390,370</item>
+       <item>the urban assembly school for green careers,s,s,s,s</item>
+       <item>the global learning collaborative,s,s,s,s</item>
+       <item>innovation diploma plus,12,416,403,381</item>
+       <item>wadleigh secondary school for the performing and visual arts,32,371,368,370</item>
+       <item>frank mccourt high school,s,s,s,s</item>
+       <item>louis d. brandeis high school,131,370,390,358</item>
+       <item>beacon high school,261,577,575,592</item>
+       <item>fiorello h. laguardia high school of music and art and performing arts,531,566,564,577</item>
+       <item>high school for law, advocacy and community justice,66,396,398,402</item>
+       <item>high school of arts and technology,75,433,433,411</item>
+       <item>edward a. reynolds west side high school,35,401,369,351</item>
+       <item>manhattan / hunter science high school,111,473,506,467</item>
+       <item>young adult borough center at louis d. brandeis hs,s,s,s,s</item>
+       <item>frederick douglass academy ii secondary school,43,356,379,361</item>
+       <item>coalition school for social change,48,354,357,373</item>
+       <item>manhattan center for science and mathematics,375,461,514,455</item>
+       <item>park east high school,51,373,379,376</item>
+       <item>central park east high school,73,405,421,395</item>
+       <item>young women\'s leadership school,70,432,446,448</item>
+       <item>academy of environmental science secondary high school,48,369,369,357</item>
+       <item>heritage school, the,31,358,351,345</item>
+       <item>harlem renaissance high school,29,357,318,333</item>
+       <item>mott hall high school,54,413,399,398</item>
+       <item>columbia secondary school for math, science, and engineering,s,s,s,s</item>
+       <item>academy for social action: a college board school,33,354,366,342</item>
+       <item>urban assembly school for the performing arts,56,360,353,364</item>
+       <item>choir academy of harlem,20,354,360,385</item>
+       <item>frederick douglass academy,214,458,474,442</item>
+       <item>thurgood marshall academy for learning and social change,66,396,402,404</item>
+       <item>bread and roses integrated arts high school,61,369,361,355</item>
+       <item>high school for mathematics, science and engineering at city college,101,605,654,588</item>
+       <item>city college academy of the arts,60,408,446,416</item>
+       <item>community health academy of the heights,55,362,376,367</item>
+       <item>washington heights expeditionary learning school,70,380,395,399</item>
+       <item>high school for excellence and innovation,s,s,s,s</item>
+       <item>george washington yabc,7,394,357,346</item>
+       <item>high school for international business and finance,76,365,384,378</item>
+       <item>high school for media and communications,63,369,380,349</item>
+       <item>high school for law and public service,94,363,378,361</item>
+       <item>high school for health careers and sciences,24,400,422,402</item>
+       <item>a. philip randolph campus high school,228,430,456,423</item>
+       <item>gregorio luperon high school for science and mathematics,56,339,349,326</item>
+       <item>south bronx preparatory: a college board school,65,364,378,348</item>
+       <item>crotona academy high school,9,379,364,382</item>
+       <item>international community high school,34,310,324,311</item>
+       <item>jill chaifetz transfer high school,s,s,s,s</item>
+       <item>bronx haven high school,s,s,s,s</item>
+       <item>community school for social justice,43,361,359,357</item>
+       <item>mott haven village preparatory high school,63,351,375,371</item>
+       <item>university heights secondary school,79,403,394,404</item>
+       <item>hostosslincoln academy of science,66,420,426,411</item>
+       <item>foreign language academy of global studies,64,399,396,391</item>
+       <item>bronx leadership academy ii high school,62,362,378,363</item>
+       <item>new explorers high school,28,367,356,361</item>
+       <item>urban assembly school for careers in sports,44,387,411,383</item>
+       <item>bronx academy of letters,51,413,381,407</item>
+       <item>alfred e. smith career and technical education high school,76,394,400,364</item>
+       <item>samuel gompers career and technical education high school,47,398,416,370</item>
+       <item>health opportunities high school,114,363,368,364</item>
+       <item>bronx studio school for writers and artists,s,s,s,s</item>
+       <item>women\'s academy of excellence,44,407,386,378</item>
+       <item>renaissance high school for musical theater and technology,52,384,385,389</item>
+       <item>gateway school for environmental research and technology,41,416,390,394</item>
+       <item>pablo neruda academy for architecture and world studies,67,337,361,340</item>
+       <item>millennium art academy,67,387,402,375</item>
+       <item>holcombe l. rucker school of community research,39,363,371,350</item>
+       <item>archimedes academy for math, science and technology applications,s,s,s,s</item>
+       <item>antonia pantoja preparatory academy, a college board school,s,s,s,s</item>
+       <item>bronx community high school,9,367,369,376</item>
+       <item>herbert h. lehman high school,415,412,436,393</item>
+       <item>herbert h. lehman yabc,6,402,373,413</item>
+       <item>bronx bridges high school,s,s,s,s</item>
+       <item>bronx guild,39,369,371,365</item>
+       <item>stevenson yabc,s,s,s,s</item>
+       <item>felisa rincon de gautier institute for law and public policy, the,68,373,370,356</item>
+       <item>banana kelly high school,54,373,381,377</item>
+       <item>bronx arena high school,s,s,s,s</item>
+       <item>school for community research and learning,16,366,400,368</item>
+       <item>high school x560 s bronx academy high school,9,404,368,399</item>
+       <item>jane addams high school for academic careers,78,377,359,376</item>
+       <item>bronx expeditionary learning high school,39,324,376,349</item>
+       <item>eagle academy for young men,78,373,387,374</item>
+       <item>urban assembly academy for history and citizenship for young men, the,33,372,355,357</item>
+       <item>urban assembly school for applied math and science, the,80,411,464,415</item>
+       <item>eximius college preparatory academy: a college board school,50,393,394,382</item>
+       <item>mott hall bronx high school,67,369,367,356</item>
+       <item>bronx center for science and mathematics,81,459,480,457</item>
+       <item>validus preparatory academy: an expeditionary learning school,74,356,363,356</item>
+       <item>leadership institute,30,361,353,367</item>
+       <item>morris academy for collaborative studies,38,386,386,376</item>
+       <item>bronx early college academy for teaching and learning,s,s,s,s</item>
+       <item>dreamyard preparatory school,51,382,365,391</item>
+       <item>academy for language and technology,54,315,339,297</item>
+       <item>bronx international high school,49,314,312,339</item>
+       <item>school for excellence,32,363,360,351</item>
+       <item>bronx high school of business,34,356,376,351</item>
+       <item>bronx high school for medical science,64,400,419,402</item>
+       <item>jonathan levin high school for media and communications,35,379,364,379</item>
+       <item>bronx school for law, government and justice,80,404,418,402</item>
+       <item>frederick douglass academy iii secondary school,50,368,384,369</item>
+       <item>bronx leadership academy high school,114,384,394,388</item>
+       <item>high school for violin and dance,27,353,315,371</item>
+       <item>riverdale / kingsbridge academy (middle school / high school 141),113,438,455,440</item>
+       <item>bronx engineering and technology academy,86,373,412,365</item>
+       <item>theatre arts production company school,59,405,391,394</item>
+       <item>the marie curie school for medicine, nursing, and health professions,79,382,393,382</item>
+       <item>west bronx academy for the future,26,382,406,370</item>
+       <item>kingsbridge international high school,52,304,356,302</item>
+       <item>bronx school of law and finance,54,402,395,385</item>
+       <item>providing urban learners success in education high school,s,s,s,s</item>
+       <item>international school for liberal arts,49,300,333,301</item>
+       <item>instech academy (m.s. / high school 368),111,390,408,383</item>
+       <item>knowledge and power preparatory academy international high school (kappa),61,392,401,387</item>
+       <item>english language learners and international support preparatory academy (ellis),38,343,356,330</item>
+       <item>high school for teaching and the professions,57,370,371,365</item>
+       <item>belmont preparatory high school,51,404,418,400</item>
+       <item>fordham high school for the arts,48,355,350,372</item>
+       <item>fordham leadership academy for business and technology,63,367,385,367</item>
+       <item>bronx high school for law and community service,65,366,364,352</item>
+       <item>dewitt clinton high school,443,419,426,410</item>
+       <item>celia cruz bronx high school of music, the,52,423,420,427</item>
+       <item>bronx high school of science,731,632,688,649</item>
+       <item>john f. kennedy high school,109,351,362,339</item>
+       <item>marble hill high school for international studies,99,414,435,414</item>
+       <item>learning to work ged at john f. kennedy,s,s,s,s</item>
+       <item>bronx theatre high school,68,348,362,354</item>
+       <item>discovery high school,55,372,379,364</item>
+       <item>grace dodge career and technical education high school,73,362,382,356</item>
+       <item>grace dodge yabc,10,350,356,317</item>
+       <item>high school of american studies at lehman college,92,636,648,636</item>
+       <item>bronx health sciences high school,74,370,381,382</item>
+       <item>bronx high school for writing and communication arts,46,400,357,390</item>
+       <item>bronx lab school,81,377,391,367</item>
+       <item>academy for scholarship and entrepreneurship: a college board school,56,386,394,361</item>
+       <item>high school of computers and technology,72,381,376,354</item>
+       <item>collegiate institute for math and science,97,444,471,433</item>
+       <item>bronx academy of health careers,69,387,365,383</item>
+       <item>astor collegiate academy,60,387,391,391</item>
+       <item>christopher columbus high school,121,367,361,353</item>
+       <item>young adult borough cntr christopher columbus hs,s,s,s,s</item>
+       <item>bronx high school for the visual arts,48,419,433,416</item>
+       <item>harry s truman high school,189,386,397,368</item>
+       <item>learning to work yabc at truman high school,s,s,s,s</item>
+       <item>new world high school,72,332,381,335</item>
+       <item>the bronxwood preparatory academy,48,377,372,363</item>
+       <item>global enterprise high school,57,372,382,375</item>
+       <item>pelham preparatory academy,76,431,438,419</item>
+       <item>high school for contemporary arts,55,383,378,365</item>
+       <item>bronx aerospace high school,46,388,393,382</item>
+       <item>new day academy,25,348,344,354</item>
+       <item>metropolitan high school, the,49,347,367,341</item>
+       <item>explorations academy,57,381,381,360</item>
+       <item>performance conservatory high school,30,361,353,360</item>
+       <item>bronx latin,36,408,432,411</item>
+       <item>east bronx academy for the future,46,366,378,358</item>
+       <item>peace and diversity academy,34,390,401,364</item>
+       <item>pan american international high school at monroe,30,321,351,298</item>
+       <item>learning to work yabc at monroe academy,s,s,s,s</item>
+       <item>arturo a. schomburg satellite academy bronx,14,380,372,349</item>
+       <item>the cinema school,s,s,s,s</item>
+       <item>bronx career and college preparatory high school,s,s,s,s</item>
+       <item>bronx regional high school,16,398,385,398</item>
+       <item>high school of world cultures,42,304,323,312</item>
+       <item>fannie lou hamer freedom high school,72,342,346,341</item>
+       <item>wings academy,66,378,374,362</item>
+       <item>monroe academy for business/law,31,375,387,376</item>
+       <item>monroe academy for visual arts and design,43,332,357,349</item>
+       <item>dr. susan s. mckinney secondary school of the arts,29,352,349,373</item>
+       <item>academy of business and community development,9,439,374,418</item>
+       <item>urban assembly high school of music and art,52,360,364,356</item>
+       <item>brooklyn community high school of communication, arts and media,37,375,355,384</item>
+       <item>science skills center high school for science, technology and the creative arts,92,399,417,395</item>
+       <item>brooklyn technical high school,1277,587,659,587</item>
+       <item>brooklyn international high school,90,305,364,312</item>
+       <item>the urban assembly school for law and justice,105,400,417,389</item>
+       <item>acorn community high school,72,384,364,368</item>
+       <item>freedom academy high school,29,400,390,403</item>
+       <item>urban assembly institute of math and science for young women,s,s,s,s</item>
+       <item>brooklyn academy high school,8,435,383,379</item>
+       <item>bedford stuyvesant preparatory high school,13,398,391,394</item>
+       <item>bedford academy high school,89,438,443,431</item>
+       <item>george westinghouse career and technical education high school,85,406,391,392</item>
+       <item>brooklyn high school for leadership and community service,s,s,s,s</item>
+       <item>benjamin banneker academy,185,471,472,448</item>
+       <item>city polytechnic high school of engineering, architecture, and technology,20,441,499,413</item>
+       <item>juan morel campos secondary school,102,365,361,359</item>
+       <item>foundations academy,s,s,s,s</item>
+       <item>academy for young writers,68,387,357,381</item>
+       <item>brooklyn latin school, the,72,586,584,570</item>
+       <item>green school: an academy for environmental careers,41,407,386,396</item>
+       <item>progress high school for professional careers,144,364,379,371</item>
+       <item>school for legal studies,134,413,396,395</item>
+       <item>the high school for enterprise, business and technology,142,398,421,396</item>
+       <item>brooklyn preparatory high school,42,367,373,350</item>
+       <item>williamsburg high school for architecture and design,72,363,385,364</item>
+       <item>williamsburg preparatory school,113,397,410,380</item>
+       <item>lyons community school,31,371,377,355</item>
+       <item>automotive high school,94,367,376,350</item>
+       <item>frances perkins academy,12,382,372,368</item>
+       <item>el puente academy for peace and justice,28,359,335,341</item>
+       <item>automotive high school yabc,s,s,s,s</item>
+       <item>brooklyn school for global studies,52,361,367,383</item>
+       <item>brooklyn secondary school for collaborative studies,76,393,399,387</item>
+       <item>secondary school for law,59,398,411,394</item>
+       <item>secondary school for journalism,58,397,391,381</item>
+       <item>park slope collegiate,72,379,416,380</item>
+       <item>school for international studies,64,405,415,392</item>
+       <item>cobble hill school of american studies,77,398,402,385</item>
+       <item>pacific high school,9,352,341,300</item>
+       <item>west brooklyn community high school,s,s,s,s</item>
+       <item>metropolitan corporate academy high school,28,368,365,368</item>
+       <item>brooklyn high school of the arts,141,426,421,411</item>
+       <item>sunset park high school,s,s,s,s</item>
+       <item>south brooklyn community high school,8,430,416,425</item>
+       <item>frederick douglass academy iv secondary school,20,355,355,358</item>
+       <item>boys and girls high school,131,365,370,362</item>
+       <item>brooklyn high school for law and technology,46,362,372,358</item>
+       <item>gotham professional arts academy,36,370,372,351</item>
+       <item>the brooklyn academy of global finance,s,s,s,s</item>
+       <item>academy for college preparation and career exploration: a college board school,59,396,374,369</item>
+       <item>academy of hospitality and tourism,57,352,342,351</item>
+       <item>erasmus yabc,s,s,s,s</item>
+       <item>w.e.b. dubois academic high school,7,394,364,334</item>
+       <item>international high school at prospect heights,71,287,335,291</item>
+       <item>the high school for global citizenship,46,403,385,388</item>
+       <item>school for human rights, the,35,348,381,359</item>
+       <item>school for democracy and leadership,38,377,404,372</item>
+       <item>high school for youth and community development at erasmus,73,338,349,340</item>
+       <item>high school for service and learning at erasmus,61,362,375,368</item>
+       <item>science, technology and research early college high school at erasmus,69,457,462,441</item>
+       <item>international arts business school,54,386,391,369</item>
+       <item>high school for public service: heroes of tomorrow,79,418,441,414</item>
+       <item>brooklyn academy of science and the environment,63,388,382,373</item>
+       <item>brooklyn school for music and theatre,48,385,393,373</item>
+       <item>brownsville academy high school,16,372,356,335</item>
+       <item>medgar evers college preparatory school,165,476,481,479</item>
+       <item>clara barton high school,259,425,413,413</item>
+       <item>paul robeson high school,53,365,363,355</item>
+       <item>academy for health careers,s,s,s,s</item>
+       <item>it takes a village academy,56,313,320,330</item>
+       <item>brooklyn generation school,29,374,377,394</item>
+       <item>brooklyn theatre arts high school,54,383,358,377</item>
+       <item>kurt hahn expeditionary learning school,43,368,378,346</item>
+       <item>victory collegiate high school,63,387,377,379</item>
+       <item>brooklyn bridge academy,17,384,362,351</item>
+       <item>arts and media preparatory academy,48,361,360,359</item>
+       <item>high school for innovation in advertising and media,37,404,393,386</item>
+       <item>cultural academy for the arts and sciences,33,393,395,381</item>
+       <item>high school for medical professions,75,386,380,393</item>
+       <item>olympus academy,7,400,370,370</item>
+       <item>academy for conservation and the environment,35,363,381,367</item>
+       <item>urban action academy,40,376,385,374</item>
+       <item>east brooklyn community high school,12,410,403,378</item>
+       <item>east new york family academy,54,416,432,394</item>
+       <item>franklin k. lane high school,s,s,s,s</item>
+       <item>thomas jefferson yabc,s,s,s,s</item>
+       <item>fdny high school for fire and life safety,37,341,349,333</item>
+       <item>high school for civil rights,47,363,349,342</item>
+       <item>performing arts and technology high school,61,380,386,383</item>
+       <item>world academy for total community health high school,68,371,365,370</item>
+       <item>multicultural high school,29,279,322,286</item>
+       <item>transit tech career and technical education high school,182,395,418,380</item>
+       <item>academy of innovative technology,60,371,371,354</item>
+       <item>brooklyn lab school,57,360,385,363</item>
+       <item>cypress hills collegiate preparatory school,51,376,385,368</item>
+       <item>w. h. maxwell career and technical education high school,74,370,369,363</item>
+       <item>the school for classics: an academy of thinkers, writers and performers,38,383,400,374</item>
+       <item>new utrecht high school,456,402,471,399</item>
+       <item>high school of telecommunication arts and technology,238,425,474,424</item>
+       <item>fort hamilton high school,694,417,478,411</item>
+       <item>franklin delano roosevelt high school,385,383,486,375</item>
+       <item>the urban assembly school for criminal justice,s,s,s,s</item>
+       <item>franklin delano roosevelt yabc,18,338,477,316</item>
+       <item>international high school at lafayette,54,326,386,314</item>
+       <item>rachel carson high school for coastal studies,54,402,427,408</item>
+       <item>high school of sports management,39,388,398,378</item>
+       <item>abraham lincoln high school,475,396,437,393</item>
+       <item>abraham lincoln yabc/learning to work ged at abraham lincoln,s,s,s,s</item>
+       <item>kingsborough early college school,s,s,s,s</item>
+       <item>edward r. murrow high school,727,468,496,467</item>
+       <item>john dewey high school,448,404,468,390</item>
+       <item>life academy high school for film and music,40,384,375,365</item>
+       <item>expeditionary learning school for community leaders,40,353,370,356</item>
+       <item>william e. grady career and technical education high school,95,394,414,376</item>
+       <item>brooklyn studio secondary school,119,429,449,435</item>
+       <item>liberation diploma plus,10,411,369,373</item>
+       <item>midwood high school,824,478,519,476</item>
+       <item>james madison high school,518,436,475,439</item>
+       <item>sheepshead bay high school,236,383,392,370</item>
+       <item>leon m. goldstein high school for the sciences,259,524,561,542</item>
+       <item>brooklyn college academy,131,456,456,440</item>
+       <item>brooklyn collegiate: a college board school,60,389,409,387</item>
+       <item>frederick douglass academy vii high school,55,361,371,359</item>
+       <item>brooklyn democracy academy,11,349,338,331</item>
+       <item>aspirations diploma plus high school,7,311,371,311</item>
+       <item>metropolitan diploma plus high school,17,350,346,332</item>
+       <item>teachers preparatory high school,69,392,416,388</item>
+       <item>academy of finance and enterprise,89,405,454,421</item>
+       <item>high school of applied communication,39,406,413,400</item>
+       <item>civic leadership academy,69,404,429,407</item>
+       <item>pan american international high school,55,317,323,311</item>
+       <item>bard high school early college ii,155,545,568,550</item>
+       <item>newtown high school,320,383,440,380</item>
+       <item>young adult borough center at arts and business hs,s,s,s,s</item>
+       <item>grover cleveland high school,241,395,420,396</item>
+       <item>middle college high school at laguardia community college,58,399,393,385</item>
+       <item>international high school at laguardia community college,69,326,409,329</item>
+       <item>high school for arts and business,138,391,403,380</item>
+       <item>robert f. wagner, jr. secondary school for arts and technology,80,443,447,440</item>
+       <item>queens vocational and technical high school,155,417,447,406</item>
+       <item>aviation career and technical education high school,396,445,496,423</item>
+       <item>voyages preparatory,s,s,s,s</item>
+       <item>queens school of inquiry, the,58,455,498,443</item>
+       <item>flushing international high school,45,314,417,318</item>
+       <item>eastswest school of international studies,59,416,463,392</item>
+       <item>world journalism preparatory: a college board school,63,471,489,481</item>
+       <item>john bowne high school,558,397,451,395</item>
+       <item>flushing high school,347,393,441,382</item>
+       <item>flushing yabc,9,378,373,344</item>
+       <item>townsend harris high school,278,621,651,638</item>
+       <item>queens academy high school,17,398,382,388</item>
+       <item>robert f. kennedy community high school,99,431,458,441</item>
+       <item>north queens community high school,7,379,421,377</item>
+       <item>benjamin n. cardozo high school,888,480,545,489</item>
+       <item>francis lewis high school,934,468,539,467</item>
+       <item>martin van buren high school,334,391,397,384</item>
+       <item>bayside high school,708,462,523,464</item>
+       <item>queens high school of teaching, liberal arts and the sciences,175,425,434,420</item>
+       <item>frederick douglass academy vi high school,87,387,385,373</item>
+       <item>channel view school for research,74,432,419,401</item>
+       <item>queens high school for information, research, and technology,44,391,401,364</item>
+       <item>robert h. goddard high school of communication arts and technology,93,423,426,416</item>
+       <item>academy of medical technology: a college board school,36,367,379,348</item>
+       <item>scholars\' academy,89,499,537,496</item>
+       <item>august martin high school,101,377,371,360</item>
+       <item>beach channel high school,78,384,396,354</item>
+       <item>richmond hill high school,404,382,404,368</item>
+       <item>john adams high school,403,391,409,392</item>
+       <item>high school for construction trades, engineering and architecture,194,429,491,425</item>
+       <item>york early college academy,s,s,s,s</item>
+       <item>queens collegiate: a college board school,68,420,445,400</item>
+       <item>hillside arts and letters academy,s,s,s,s</item>
+       <item>queens satellite high school for opportunity,6,403,408,367</item>
+       <item>jamaica gateway to the sciences,25,430,452,425</item>
+       <item>forest hills high school,762,456,497,454</item>
+       <item>jamaica high school,90,342,368,353</item>
+       <item>hillcrest high school,462,395,413,386</item>
+       <item>thomas a. edison career and technical education high school,422,452,478,442</item>
+       <item>queens gateway to health sciences secondary school,99,513,523,502</item>
+       <item>queens metropolitan high school,s,s,s,s</item>
+       <item>queens high school for the sciences at york college,121,612,660,596</item>
+       <item>high school for law enforcement and public safety,74,406,406,384</item>
+       <item>young women\'s leadership school, queens,68,439,445,432</item>
+       <item>queens preparatory academy,52,360,380,359</item>
+       <item>pathways college preparatory school: a college board school,46,401,397,375</item>
+       <item>excelsior preparatory high school,49,402,398,402</item>
+       <item>george washington carver high school for the sciences,59,436,427,424</item>
+       <item>preparatory academy for writers: a college board school,43,370,367,363</item>
+       <item>cambria heights academy,s,s,s,s</item>
+       <item>mathematics, science research and technology magnet high school,78,400,426,394</item>
+       <item>law, government and community service high school,52,385,377,377</item>
+       <item>business, computer applications and entrepreneurship high school,49,379,414,359</item>
+       <item>humanities and arts magnet high school,62,393,381,377</item>
+       <item>young women\'s leadership school, astoria,s,s,s,s</item>
+       <item>academy for careers in television and film,98,410,440,405</item>
+       <item>william cullen bryant high school,395,414,449,412</item>
+       <item>long island city high school,392,403,420,395</item>
+       <item>frank sinatra school of the arts high school,174,504,496,494</item>
+       <item>information technology high school,148,407,434,398</item>
+       <item>newcomers high school,143,323,475,329</item>
+       <item>academy of american studies,135,487,492,491</item>
+       <item>baccalaureate school for global education,61,524,568,544</item>
+       <item>csi high school for international studies,137,452,451,450</item>
+       <item>gaynor mccown expeditionary learning school,61,398,412,385</item>
+       <item>the michael j. petrides school,107,472,488,466</item>
+       <item>new dorp high school,391,424,437,416</item>
+       <item>port richmond high school,271,424,438,417</item>
+       <item>curtis high school,375,437,435,429</item>
+       <item>tottenville high school,807,462,486,470</item>
+       <item>susan e. wagner high school,535,455,474,459</item>
+       <item>concord high school,10,466,455,414</item>
+       <item>ralph r. mckee career and technical education high school,94,416,422,397</item>
+       <item>staten island technical high school,227,635,682,636</item>
+       <item>young adult borough center at staten is tech hs,10,405,375,370</item>
+       <item>academy for environmental leadership,50,380,366,352</item>
+       <item>ebc high school for public service–bushwick,88,384,409,361</item>
+       <item>bushwick school for social justice,75,348,353,334</item>
+       <item>academy of urban planning,67,342,364,354</item>
+       <item>all city leadership secondary school,39,428,465,422</item>
+       <item>bushwick leaders high school for academic excellence,23,347,358,350</item>
+       <item>bushwick community high school,24,359,317,358</item>
+       <item>p.s. 371 s lillian l. rashkis,s,s,s,s</item>
+       <item>p.s. 035,s,s,s,s</item>
+       <item>p.s. q256,s,s,s,s</item>
+       <item>p.s. q811,32,429,444,433</item>
+       <item>south richmond high school i.s./p.s. 25,s,s,s,s</item>
+       <item>p.s. x012 lewis and clark school,s,s,s,s</item>
+       <item>j. m. rapport school career development,s,s,s,s</item>
+       <item>school for cooperative technical education,s,s,s,s</item>
+       <item>ged plus s citywide,8,496,400,426</item>
+       <item>phoenix academy,9,367,370,360</item>
+
+
+    </string-array>
+
+
+
+</resources>

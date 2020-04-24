@@ -1,0 +1,8 @@
+./app/build/generated/source/buildConfig/debug/com/onlineicttutor/mylistviewdemo/BuildConfig.java
+./app/build/generated/source/r/debug/android/support/design/R.java
+./app/build/generated/source/r/debug/android/support/v7/recyclerview/R.java
+./app/build/generated/source/r/debug/android/support/v7/appcompat/R.java
+./app/build/generated/source/r/debug/com/onlineicttutor/mylistviewdemo/R.java
+./app/src/androidTest/java/com/onlineicttutor/mylistviewdemo/ApplicationTest.java
+./app/src/main/java/com/onlineicttutor/mylistviewdemo/MainActivity.java
+./app/src/test/java/com/onlineicttutor/mylistviewdemo/ExampleUnitTest.java

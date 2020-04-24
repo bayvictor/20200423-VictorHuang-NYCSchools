@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/sdb3/src/android/android+search+listview/13_firojandev__android-listview-with-searching/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/sdb3/src/android/android+search+listview/13_firojandev__android-listview-with-searching/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_07c78531549062769c99458634a1432e7ac5de35.jar" />
+    </item>
+    <item
+        jar="/sdb3/src/android/android+search+listview/13_firojandev__android-listview-with-searching/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/sdb3/src/android/android+search+listview/13_firojandev__android-listview-with-searching/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_2dde55596f621dcd6c15e4b827a8dbd587b91996.jar" />
+    </item>
+    <item
+        jar="/sdb3/src/android/android+search+listview/13_firojandev__android-listview-with-searching/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/sdb3/src/android/android+search+listview/13_firojandev__android-listview-with-searching/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_31afff91cfdf6320663cf718126dd8a775b35171.jar" />
+    </item>
+    <item
+        jar="/sdb3/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/sdb3/src/android/android+search+listview/13_firojandev__android-listview-with-searching/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_572cb1267a7a16fa633c23f87bc63a9f6bd22855.jar" />
+    </item>
+    <item
+        jar="/sdb3/src/android/android+search+listview/13_firojandev__android-listview-with-searching/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/sdb3/src/android/android+search+listview/13_firojandev__android-listview-with-searching/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_46757d39aba8e7facf5c312bd83af843dbb06388.jar" />
+    </item>
+    <item
+        jar="/sdb3/src/android/android+search+listview/13_firojandev__android-listview-with-searching/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/sdb3/src/android/android+search+listview/13_firojandev__android-listview-with-searching/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_469d4c46285bbb33f68edc602b36e0657c4c0f84.jar" />
+    </item>
+    <item
+        jar="/sdb3/src/android/android+search+listview/13_firojandev__android-listview-with-searching/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/sdb3/src/android/android+search+listview/13_firojandev__android-listview-with-searching/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_ba52c52f9ae71b7261a6ca233288b06ca384cc2d.jar" />
+    </item>
+    <item
+        jar="/sdb3/src/android/android+search+listview/13_firojandev__android-listview-with-searching/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/sdb3/src/android/android+search+listview/13_firojandev__android-listview-with-searching/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_a10dfde8737880d0a3e705d37fd15017442f3720.jar" />
+    </item>
+
+</items>
